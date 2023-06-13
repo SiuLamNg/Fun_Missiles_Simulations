@@ -14,4 +14,4 @@ For those cases, newly added countries' missiles stock should follow the domain 
 * Missiles Height in (m)
 * Missiles Radius in (m)
 * Range in {m, km, miles, nautical miles}
-* Temperature in {°C,°F, K} in which: °C is Celuius, °F is Fahrenheit, K is Kelvin.
+* Temperature in {°C,°F, K} in which: °C is Celsius, °F is Fahrenheit, K is Kelvin.
