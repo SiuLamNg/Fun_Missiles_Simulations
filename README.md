@@ -5,6 +5,7 @@ In an abstract manner, the 3D simulation process will demonstrate the following:
 * Velocity & Acceleration Vectors 
 * Thermodynamics 
 * Fluid Dynamics 
+* 
 Addiontional formfactors -
 * Rarefied Gas Dynamics
 * Plasma Dynamics
