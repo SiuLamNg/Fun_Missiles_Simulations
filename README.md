@@ -21,11 +21,19 @@ Countries List:
 4. Europe Union
 
 The corresponding missile models are as followings:
-1. PL-21 (A-A) - China
-2. AIM-260 JATM (A-A) - USA
-3. R-37m- Russia
-4. Meteor - EU
- 
+Air-To-Air
+1. PL-21 (China)
+2. AIM-260 JATM (USA)
+3. R-37m (Russia)
+4. Meteor (EU)
+
+Air-To-Ground
+1. KD-20 (China)
+2. AGM-158 JASSM (USA)
+3. 3M-14AE (Russia)
+4. SCALP EG (EU:UK,France Italy)
+5. KEPD 350 (EU:Germany, Sweden)
+
 # Continuous Development 
 
 # Environmental & Cost Analysis 
