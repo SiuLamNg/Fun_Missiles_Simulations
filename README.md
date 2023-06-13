@@ -21,6 +21,7 @@ Countries List:
 4. Europe Union
 
 The corresponding missile models are as followings:
+
 Air-To-Air
 1. PL-21 (China)
 2. AIM-260 JATM (USA)
@@ -47,5 +48,6 @@ Evaluation would be done on the following aspects:
 3. Maintenance Cost
 
 # Geographical Factors
-Geopolitics 
-Geographical Characteristics
+1. Geopolitics 
+2. Geographical Characteristics
+3. Environmental Data Approximation
