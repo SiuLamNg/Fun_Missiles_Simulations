@@ -31,11 +31,21 @@ Air-To-Ground
 1. KD-20 (China)
 2. AGM-158 JASSM (USA)
 3. 3M-14AE (Russia)
-4. SCALP EG (EU:UK,France Italy)
+4. SCALP EG (EU:UK,France, Italy)
 5. KEPD 350 (EU:Germany, Sweden)
 
 # Continuous Development 
 
 # Environmental & Cost Analysis 
+Evaluation would be done on the following aspects: 
+1. Material Supply - 
+   * Country Origin
+   * Sustainability 
+   * General Price 
+   * Replacement Cost
+2. Cost Per Unit 
+3. Maintenance Cost
 
 # Geographical Factors
+Geopolitics 
+Geographical Characteristics
